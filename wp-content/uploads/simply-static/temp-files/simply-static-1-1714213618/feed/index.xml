@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>mushmade &#8211; mushmade</title>
-	<atom:link href="https://mushmade.github.io/author/mushmade/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mushmade.github.io</link>
+	<title>mushmade</title>
+	<atom:link href="https://mushmade.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mushmade.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Apr 2024 10:05:39 +0000</lastBuildDate>
 	<language>en-US</language>
